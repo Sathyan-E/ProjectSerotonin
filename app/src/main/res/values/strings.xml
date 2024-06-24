@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project Serotonin</string>
+    <string name="title_activity_regimen">RegimenActivity</string>
+    <string name="delete_consumption">Do you want to delete Consumption?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+</resources>

@@ -1,0 +1,932 @@
+{
+  "data" : {
+    "config" : {
+      "dock" : true,
+      "showVideo" : false,
+      "videoUrl" : "https://app-backend.srtn.live/static/videos/app/home_dashboard/nfc_tutorial_with_dock.mp4"
+    },
+    "itemsToConsume" : [
+      {
+        "code" : "DAYTIME",
+        "completed" : false,
+        "items" : [
+          {
+            "canPause" : true,
+            "canReorder" : true,
+            "consumptions" : [
+              {
+                "date" : "2024-05-30",
+                "dosage" : 2,
+                "qualifier" : null,
+                "text" : null,
+                "time" : "10:14:11",
+                "timestamp" : "2024-05-30T04:44:11.000+00:00",
+                "type" : "AUTO_DOCK",
+                "unit" : "vegan capsules(s)"
+              }
+            ],
+            "dataNotAvailable" : false,
+            "fillIcon" : "https://app-backend.srtn.live/static/images/app/fill-1@3x.png",
+            "fillPct" : 0,
+            "infoText" : "Reorder delivered. Please switch it from home screen",
+            "interactions" : [
+              {
+                "count" : 2,
+                "icon" : "https://app-backend.srtn.live/static/images/app/include.png",
+                "text" : "Favourable Interactions",
+                "type" : "include"
+              }
+            ],
+            "latestConsumption" : {
+              "date" : "2024-05-30",
+              "dosage" : 2,
+              "qualifier" : null,
+              "text" : null,
+              "time" : "10:14:11",
+              "timestamp" : "2024-05-30T04:44:11.000+00:00",
+              "type" : "AUTO_DOCK",
+              "unit" : "vegan capsules(s)"
+            },
+            "maxServingSize" : 3,
+            "minServingSize" : 1,
+            "noDataResponse" : null,
+            "product" : {
+              "active" : true,
+              "brand" : "Unived",
+              "consumed" : true,
+              "consumption" : [],
+              "consumptionWithType" : [],
+              "foundation" : true,
+              "id" : "66272656f9119d05e8f9e8dc",
+              "image" : "https://app-backend.srtn.live/static/images/science/supplement_images/1697698628853_Unived_BasicsWomensMultivitaminMinerals_60vegancaps.png",
+              "lastSyncedAt" : null,
+              "level" : null,
+              "name" : "Basics Women's Multivitamin & Minerals",
+              "productId" : "UNVMVM00015",
+              "regimen" : {
+                "briefDesc" : null,
+                "category" : null,
+                "categoryIcon" : null,
+                "description" : "Best taken with a meal or snack, during the day",
+                "fillPct" : 100,
+                "foodCode" : "WITH_FOOD",
+                "name" : "Multi Vitamin + Multi Mineral",
+                "pausePct" : null,
+                "required" : true,
+                "servingSize" : 2,
+                "servingUnit" : "vegan capsules(s)",
+                "split" : false,
+                "status" : "ACTIVE",
+                "timeCode" : "MORNING",
+                "type" : "daily",
+                "typeDesc" : "Daily"
+              },
+              "status" : "ACTIVE"
+            },
+            "shippingInDays" : null,
+            "showInfoIcon" : false,
+            "todayConsumption" : {
+              "date" : "2024-05-30",
+              "dosage" : 2,
+              "qualifier" : null,
+              "text" : null,
+              "time" : "10:14:11",
+              "timestamp" : "2024-05-30T04:44:11.000+00:00",
+              "type" : "AUTO_DOCK",
+              "unit" : "vegan capsules(s)"
+            }
+          }
+        ],
+        "regular" : true,
+        "title" : "Take during day"
+      },
+      {
+        "code" : "ANY",
+        "completed" : false,
+        "items" : [
+          {
+            "canPause" : true,
+            "canReorder" : true,
+            "consumptions" : [
+              {
+                "date" : "2024-05-30",
+                "dosage" : 4,
+                "qualifier" : null,
+                "text" : null,
+                "time" : "10:13:45",
+                "timestamp" : "2024-05-30T04:43:45.000+00:00",
+                "type" : "AUTO_DOCK",
+                "unit" : "vegan capsules(s)"
+              }
+            ],
+            "dataNotAvailable" : false,
+            "fillIcon" : "https://app-backend.srtn.live/static/images/app/fill-3@3x.png",
+            "fillPct" : 60,
+            "infoText" : null,
+            "interactions" : [],
+            "latestConsumption" : {
+              "date" : "2024-05-30",
+              "dosage" : 4,
+              "qualifier" : null,
+              "text" : null,
+              "time" : "10:13:45",
+              "timestamp" : "2024-05-30T04:43:45.000+00:00",
+              "type" : "AUTO_DOCK",
+              "unit" : "vegan capsules(s)"
+            },
+            "maxServingSize" : 6,
+            "minServingSize" : 2,
+            "noDataResponse" : null,
+            "product" : {
+              "active" : true,
+              "brand" : "Unived",
+              "consumed" : true,
+              "consumption" : [],
+              "consumptionWithType" : [],
+              "foundation" : true,
+              "id" : "66445531f9119d19166e101b",
+              "image" : "https://app-backend.srtn.live/static/images/science/supplement_images/1692860567771_Unived_Ovegha_500mg_60VeganCapsules.png",
+              "lastSyncedAt" : null,
+              "level" : null,
+              "name" : "Ovegha®",
+              "productId" : "UNVOMG00012",
+              "regimen" : {
+                "briefDesc" : null,
+                "category" : null,
+                "categoryIcon" : null,
+                "description" : "Best taken with a meal or snack, anytime during the day or night",
+                "fillPct" : 100,
+                "foodCode" : "WITH_FOOD",
+                "name" : "Omega-3",
+                "pausePct" : null,
+                "required" : false,
+                "servingSize" : 4,
+                "servingUnit" : "vegan capsules(s)",
+                "split" : false,
+                "status" : "ACTIVE",
+                "timeCode" : "MORNING",
+                "type" : "daily",
+                "typeDesc" : "Daily"
+              },
+              "status" : "ACTIVE"
+            },
+            "shippingInDays" : null,
+            "showInfoIcon" : false,
+            "todayConsumption" : {
+              "date" : "2024-05-30",
+              "dosage" : 4,
+              "qualifier" : null,
+              "text" : null,
+              "time" : "10:13:45",
+              "timestamp" : "2024-05-30T04:43:45.000+00:00",
+              "type" : "AUTO_DOCK",
+              "unit" : "vegan capsules(s)"
+            }
+          },
+          {
+            "canPause" : true,
+            "canReorder" : true,
+            "consumptions" : [],
+            "dataNotAvailable" : false,
+            "fillIcon" : "https://app-backend.srtn.live/static/images/app/fill-4@3x.png",
+            "fillPct" : 81,
+            "infoText" : null,
+            "interactions" : [
+              {
+                "count" : 1,
+                "icon" : "https://app-backend.srtn.live/static/images/app/include.png",
+                "text" : "Favourable Interactions",
+                "type" : "include"
+              },
+              {
+                "count" : 1,
+                "icon" : "https://app-backend.srtn.live/static/images/app/consume_at_another_time.png",
+                "text" : "Unfavourable Interactions",
+                "type" : "consume_at_another_time"
+              }
+            ],
+            "latestConsumption" : {
+              "date" : "2024-05-29",
+              "dosage" : 2,
+              "qualifier" : null,
+              "text" : null,
+              "time" : "20:33:23",
+              "timestamp" : "2024-05-29T15:03:23.000+00:00",
+              "type" : "AUTO_DOCK",
+              "unit" : "veg capsule(s)"
+            },
+            "maxServingSize" : 3,
+            "minServingSize" : 1,
+            "noDataResponse" : null,
+            "product" : {
+              "active" : true,
+              "brand" : "HealthyHey Nutrition",
+              "consumed" : false,
+              "consumption" : [],
+              "consumptionWithType" : [],
+              "foundation" : true,
+              "id" : "662751daf9119d05e8fa1166",
+              "image" : "https://app-backend.srtn.live/static/images/science/supplement_images/1706684929589_HealthHey_CalM72_120vegcaps.png",
+              "lastSyncedAt" : null,
+              "level" : null,
+              "name" : "CalM72 (Calcium)",
+              "productId" : "HHNCAL00067",
+              "regimen" : {
+                "briefDesc" : null,
+                "category" : null,
+                "categoryIcon" : null,
+                "description" : "Best taken with a meal or snack, anytime during the day or night",
+                "fillPct" : 80,
+                "foodCode" : "WITH_FOOD",
+                "name" : "Calcium",
+                "pausePct" : null,
+                "required" : false,
+                "servingSize" : 2,
+                "servingUnit" : "veg capsule(s)",
+                "split" : false,
+                "status" : "ACTIVE",
+                "timeCode" : "MORNING",
+                "type" : "daily",
+                "typeDesc" : "Daily"
+              },
+              "status" : "ACTIVE"
+            },
+            "shippingInDays" : null,
+            "showInfoIcon" : false,
+            "todayConsumption" : null
+          }
+        ],
+        "regular" : true,
+        "title" : "Take anytime"
+      },
+      {
+        "code" : "NIGHT_TIME",
+        "completed" : false,
+        "items" : [
+          {
+            "canPause" : true,
+            "canReorder" : true,
+            "consumptions" : [],
+            "dataNotAvailable" : false,
+            "fillIcon" : "https://app-backend.srtn.live/static/images/app/fill-1@3x.png",
+            "fillPct" : 8,
+            "infoText" : null,
+            "interactions" : [
+              {
+                "count" : 3,
+                "icon" : "https://app-backend.srtn.live/static/images/app/include.png",
+                "text" : "Favourable Interactions",
+                "type" : "include"
+              }
+            ],
+            "latestConsumption" : {
+              "date" : "2024-05-29",
+              "dosage" : 1,
+              "qualifier" : null,
+              "text" : null,
+              "time" : "20:33:33",
+              "timestamp" : "2024-05-29T15:03:33.000+00:00",
+              "type" : "AUTO_DOCK",
+              "unit" : "vegan capsules(s)"
+            },
+            "maxServingSize" : 3,
+            "minServingSize" : 1,
+            "noDataResponse" : null,
+            "product" : {
+              "active" : true,
+              "brand" : "Unived",
+              "consumed" : false,
+              "consumption" : [],
+              "consumptionWithType" : [],
+              "foundation" : true,
+              "id" : "661780c7fed0263b88809e19",
+              "image" : "https://app-backend.srtn.live/static/images/science/supplement_images/1707455986139_Unived_ZMA_60VeganCaps.png",
+              "lastSyncedAt" : null,
+              "level" : null,
+              "name" : "ZMA",
+              "productId" : "UNV6MZ00053",
+              "regimen" : {
+                "briefDesc" : null,
+                "category" : null,
+                "categoryIcon" : null,
+                "description" : "Best taken with a meal or snack, an hour before bedtime",
+                "fillPct" : 80,
+                "foodCode" : "WITH_FOOD",
+                "name" : "Vitamin B6 + Magnesium + Zinc",
+                "pausePct" : null,
+                "required" : true,
+                "servingSize" : 1,
+                "servingUnit" : "vegan capsules(s)",
+                "split" : false,
+                "status" : "ACTIVE",
+                "timeCode" : "NIGHT",
+                "type" : "daily",
+                "typeDesc" : "Daily"
+              },
+              "status" : "ACTIVE"
+            },
+            "shippingInDays" : null,
+            "showInfoIcon" : false,
+            "todayConsumption" : null
+          }
+        ],
+        "regular" : true,
+        "title" : "Take at night"
+      },
+      {
+        "code" : "ON_DEMAND",
+        "completed" : false,
+        "items" : [
+          {
+            "canPause" : true,
+            "canReorder" : true,
+            "consumptions" : [],
+            "dataNotAvailable" : false,
+            "fillIcon" : "https://app-backend.srtn.live/static/images/app/fill-1@3x.png",
+            "fillPct" : 0,
+            "infoText" : "Reorder delivered. Please switch it from home screen",
+            "interactions" : [],
+            "latestConsumption" : {
+              "date" : "2024-05-27",
+              "dosage" : 1,
+              "qualifier" : null,
+              "text" : null,
+              "time" : "20:55:40",
+              "timestamp" : "2024-05-27T15:25:40.000+00:00",
+              "type" : "AUTO_DOCK",
+              "unit" : "veg capsule(s)"
+            },
+            "maxServingSize" : 3,
+            "minServingSize" : 1,
+            "noDataResponse" : null,
+            "product" : {
+              "active" : true,
+              "brand" : "Decode Age",
+              "consumed" : false,
+              "consumption" : [],
+              "consumptionWithType" : [],
+              "foundation" : true,
+              "id" : "65c4aed8f9119d5da3540362",
+              "image" : "https://app-backend.srtn.live/static/images/science/supplement_images/1698292577263_DecodeAge_Fisetin_100mg_30VCaps.png",
+              "lastSyncedAt" : null,
+              "level" : null,
+              "name" : "Fisetin",
+              "productId" : "DCDFST00008",
+              "regimen" : {
+                "briefDesc" : null,
+                "category" : null,
+                "categoryIcon" : null,
+                "description" : "1 pill/d 3-4 hrs before the end of a fast, along with a spoon of fat (Olive oil / ghee)",
+                "fillPct" : null,
+                "foodCode" : "EMPTY_STOMACH",
+                "name" : "Fisetin",
+                "pausePct" : 0,
+                "required" : false,
+                "servingSize" : 1,
+                "servingUnit" : "veg capsule(s)",
+                "split" : false,
+                "status" : "ACTIVE",
+                "timeCode" : "MORNING",
+                "type" : "none",
+                "typeDesc" : "As needed"
+              },
+              "status" : "ACTIVE"
+            },
+            "shippingInDays" : null,
+            "showInfoIcon" : false,
+            "todayConsumption" : null
+          }
+        ],
+        "regular" : true,
+        "title" : "As Needed"
+      },
+      {
+        "code" : "PAUSED",
+        "completed" : false,
+        "items" : [
+          {
+            "canPause" : false,
+            "canReorder" : true,
+            "consumptions" : [
+              {
+                "date" : "2024-05-30",
+                "dosage" : 1,
+                "qualifier" : null,
+                "text" : null,
+                "time" : "10:14:03",
+                "timestamp" : "2024-05-30T04:44:03.000+00:00",
+                "type" : "AUTO_DOCK",
+                "unit" : "veg capsule(s)"
+              }
+            ],
+            "dataNotAvailable" : false,
+            "fillIcon" : "https://app-backend.srtn.live/static/images/app/fill-1@3x.png",
+            "fillPct" : 10,
+            "infoText" : null,
+            "interactions" : [
+              {
+                "count" : 3,
+                "icon" : "https://app-backend.srtn.live/static/images/app/include.png",
+                "text" : "Favourable Interactions",
+                "type" : "include"
+              }
+            ],
+            "latestConsumption" : {
+              "date" : "2024-05-30",
+              "dosage" : 1,
+              "qualifier" : null,
+              "text" : null,
+              "time" : "10:14:03",
+              "timestamp" : "2024-05-30T04:44:03.000+00:00",
+              "type" : "AUTO_DOCK",
+              "unit" : "veg capsule(s)"
+            },
+            "maxServingSize" : 3,
+            "minServingSize" : 1,
+            "noDataResponse" : null,
+            "product" : {
+              "active" : true,
+              "brand" : "Boldfit",
+              "consumed" : true,
+              "consumption" : [],
+              "consumptionWithType" : [],
+              "foundation" : true,
+              "id" : "655af5f8fed026043b7c8270",
+              "image" : "https://app-backend.srtn.live/static/images/science/supplement_images/1673608477091_1corrected.png",
+              "lastSyncedAt" : null,
+              "level" : null,
+              "name" : "Probiotics",
+              "productId" : "BDFPRB00001",
+              "regimen" : {
+                "briefDesc" : null,
+                "category" : null,
+                "categoryIcon" : null,
+                "description" : "Take 5 of 7 days a week (with a meal or snack, anytime during the day or night), followed by a pause in consumption for the next 7 days (week). Keeping this one week ON and one week OFF consumption routine helps maintain optimal gut health.",
+                "fillPct" : null,
+                "foodCode" : "WITH_FOOD",
+                "name" : "Probiotics",
+                "pausePct" : 67,
+                "required" : false,
+                "servingSize" : 1,
+                "servingUnit" : "veg capsule(s)",
+                "split" : false,
+                "status" : "PAUSED",
+                "timeCode" : "MORNING",
+                "type" : "week-on-week-off",
+                "typeDesc" : "Alternate Weeks"
+              },
+              "status" : "ACTIVE"
+            },
+            "shippingInDays" : null,
+            "showInfoIcon" : false,
+            "todayConsumption" : {
+              "date" : "2024-05-30",
+              "dosage" : 1,
+              "qualifier" : null,
+              "text" : null,
+              "time" : "10:14:03",
+              "timestamp" : "2024-05-30T04:44:03.000+00:00",
+              "type" : "AUTO_DOCK",
+              "unit" : "veg capsule(s)"
+            }
+          },
+          {
+            "canPause" : false,
+            "canReorder" : true,
+            "consumptions" : [
+              {
+                "date" : "2024-05-30",
+                "dosage" : 1,
+                "qualifier" : null,
+                "text" : null,
+                "time" : "10:13:36",
+                "timestamp" : "2024-05-30T04:43:36.000+00:00",
+                "type" : "AUTO_DOCK",
+                "unit" : "tablet(s)"
+              }
+            ],
+            "dataNotAvailable" : false,
+            "fillIcon" : "https://app-backend.srtn.live/static/images/app/fill-4@3x.png",
+            "fillPct" : 76,
+            "infoText" : null,
+            "interactions" : [
+              {
+                "count" : 1,
+                "icon" : "https://app-backend.srtn.live/static/images/app/include.png",
+                "text" : "Favourable Interactions",
+                "type" : "include"
+              }
+            ],
+            "latestConsumption" : {
+              "date" : "2024-05-30",
+              "dosage" : 1,
+              "qualifier" : null,
+              "text" : null,
+              "time" : "10:13:36",
+              "timestamp" : "2024-05-30T04:43:36.000+00:00",
+              "type" : "AUTO_DOCK",
+              "unit" : "tablet(s)"
+            },
+            "maxServingSize" : 3,
+            "minServingSize" : 1,
+            "noDataResponse" : null,
+            "product" : {
+              "active" : true,
+              "brand" : "Carbamide Forte",
+              "consumed" : true,
+              "consumption" : [],
+              "consumptionWithType" : [],
+              "foundation" : true,
+              "id" : "66272656f9119d05e8f9e8de",
+              "image" : "https://app-backend.srtn.live/static/images/science/supplement_images/1684829966728_CarbamideForte_B12_90tabs.png",
+              "lastSyncedAt" : null,
+              "level" : null,
+              "name" : "Methylcobalamin NOVAB12-500",
+              "productId" : "CBFVTB00026",
+              "regimen" : {
+                "briefDesc" : null,
+                "category" : null,
+                "categoryIcon" : null,
+                "description" : "Take on alternate days (with a meal or snack, anytime during the day or night)",
+                "fillPct" : 100,
+                "foodCode" : "WITH_FOOD",
+                "name" : "Vitamin B12",
+                "pausePct" : 50,
+                "required" : false,
+                "servingSize" : 1,
+                "servingUnit" : "tablet(s)",
+                "split" : false,
+                "status" : "PAUSED",
+                "timeCode" : "MORNING",
+                "type" : "day-on-day-off",
+                "typeDesc" : "Alternate Days"
+              },
+              "status" : "ACTIVE"
+            },
+            "shippingInDays" : null,
+            "showInfoIcon" : false,
+            "todayConsumption" : {
+              "date" : "2024-05-30",
+              "dosage" : 1,
+              "qualifier" : null,
+              "text" : null,
+              "time" : "10:13:36",
+              "timestamp" : "2024-05-30T04:43:36.000+00:00",
+              "type" : "AUTO_DOCK",
+              "unit" : "tablet(s)"
+            }
+          }
+        ],
+        "regular" : true,
+        "title" : "Paused supplements"
+      },
+      {
+        "code" : "ADDITIONAL",
+        "completed" : false,
+        "items" : [
+          {
+            "canPause" : false,
+            "canReorder" : false,
+            "consumptions" : [
+              {
+                "date" : "2024-05-30",
+                "dosage" : 5,
+                "qualifier" : null,
+                "text" : null,
+                "time" : "10:13:55",
+                "timestamp" : "2024-05-30T04:43:55.000+00:00",
+                "type" : "AUTO_DOCK",
+                "unit" : "vegan capsules(s)"
+              }
+            ],
+            "dataNotAvailable" : false,
+            "fillIcon" : null,
+            "fillPct" : null,
+            "infoText" : null,
+            "interactions" : [
+              {
+                "count" : 6,
+                "icon" : "https://app-backend.srtn.live/static/images/app/include.png",
+                "text" : "Favourable Interactions",
+                "type" : "include"
+              }
+            ],
+            "latestConsumption" : {
+              "date" : "2024-05-30",
+              "dosage" : 5,
+              "qualifier" : null,
+              "text" : null,
+              "time" : "10:13:55",
+              "timestamp" : "2024-05-30T04:43:55.000+00:00",
+              "type" : "AUTO_DOCK",
+              "unit" : "vegan capsules(s)"
+            },
+            "maxServingSize" : 7,
+            "minServingSize" : 3,
+            "noDataResponse" : null,
+            "product" : {
+              "active" : true,
+              "brand" : "Unived",
+              "consumed" : true,
+              "consumption" : [],
+              "consumptionWithType" : [],
+              "foundation" : false,
+              "id" : "65dd9247f9119d169f1ed9ba",
+              "image" : "https://app-backend.srtn.live/static/images/science/supplement_images/1698037319125_Unived_PlantBasedVeganD3_60vcaps.png",
+              "lastSyncedAt" : null,
+              "level" : null,
+              "name" : "Plant-Based Vegan D3",
+              "productId" : "UNVVTD00023",
+              "regimen" : {
+                "briefDesc" : null,
+                "category" : null,
+                "categoryIcon" : null,
+                "description" : "Best taken anytime during the day or night. ",
+                "fillPct" : null,
+                "foodCode" : "ANY",
+                "name" : "Vitamin D",
+                "pausePct" : 0,
+                "required" : false,
+                "servingSize" : 5,
+                "servingUnit" : "vegan capsules(s)",
+                "split" : false,
+                "status" : "ACTIVE",
+                "timeCode" : "ANY",
+                "type" : "none",
+                "typeDesc" : "Flexible"
+              },
+              "status" : "ACTIVE"
+            },
+            "shippingInDays" : null,
+            "showInfoIcon" : false,
+            "todayConsumption" : {
+              "date" : "2024-05-30",
+              "dosage" : 5,
+              "qualifier" : null,
+              "text" : null,
+              "time" : "10:13:55",
+              "timestamp" : "2024-05-30T04:43:55.000+00:00",
+              "type" : "AUTO_DOCK",
+              "unit" : "vegan capsules(s)"
+            }
+          },
+          {
+            "canPause" : false,
+            "canReorder" : false,
+            "consumptions" : [],
+            "dataNotAvailable" : false,
+            "fillIcon" : null,
+            "fillPct" : null,
+            "infoText" : null,
+            "interactions" : [
+              {
+                "count" : 2,
+                "icon" : "https://app-backend.srtn.live/static/images/app/include.png",
+                "text" : "Favourable Interactions",
+                "type" : "include"
+              }
+            ],
+            "latestConsumption" : {
+              "date" : "2024-05-16",
+              "dosage" : 1,
+              "qualifier" : null,
+              "text" : null,
+              "time" : "12:46:06",
+              "timestamp" : "2024-05-16T07:16:06.000+00:00",
+              "type" : "AUTO_DOCK",
+              "unit" : "scoop(s)"
+            },
+            "maxServingSize" : 3,
+            "minServingSize" : 1,
+            "noDataResponse" : null,
+            "product" : {
+              "active" : true,
+              "brand" : "Unived",
+              "consumed" : false,
+              "consumption" : [],
+              "consumptionWithType" : [],
+              "foundation" : false,
+              "id" : "65dc8c87fed0261584f0faf5",
+              "image" : "https://app-backend.srtn.live/static/images/science/supplement_images/1709006673183_Unived_Mag_powder.png",
+              "lastSyncedAt" : null,
+              "level" : null,
+              "name" : "Marine Magnesium",
+              "productId" : "UNVMAG00054",
+              "regimen" : {
+                "briefDesc" : null,
+                "category" : null,
+                "categoryIcon" : null,
+                "description" : "Best taken anytime during the day or night. ",
+                "fillPct" : null,
+                "foodCode" : "ANY",
+                "name" : "Magnesium",
+                "pausePct" : 0,
+                "required" : false,
+                "servingSize" : 1,
+                "servingUnit" : "scoop(s)",
+                "split" : false,
+                "status" : "ACTIVE",
+                "timeCode" : "ANY",
+                "type" : "none",
+                "typeDesc" : "Flexible"
+              },
+              "status" : "ACTIVE"
+            },
+            "shippingInDays" : null,
+            "showInfoIcon" : false,
+            "todayConsumption" : null
+          },
+          {
+            "canPause" : false,
+            "canReorder" : false,
+            "consumptions" : [],
+            "dataNotAvailable" : false,
+            "fillIcon" : "https://app-backend.srtn.live/static/images/app/fill-4@3x.png",
+            "fillPct" : 90,
+            "infoText" : null,
+            "interactions" : [
+              {
+                "count" : 4,
+                "icon" : "https://app-backend.srtn.live/static/images/app/include.png",
+                "text" : "Favourable Interactions",
+                "type" : "include"
+              },
+              {
+                "count" : 1,
+                "icon" : "https://app-backend.srtn.live/static/images/app/consume_at_another_time.png",
+                "text" : "Unfavourable Interactions",
+                "type" : "consume_at_another_time"
+              }
+            ],
+            "latestConsumption" : {
+              "date" : "2024-04-18",
+              "dosage" : 1,
+              "qualifier" : null,
+              "text" : null,
+              "time" : "20:30:00",
+              "timestamp" : "2024-04-18T15:00:00.000+00:00",
+              "type" : "MANUAL",
+              "unit" : "scoop(s)"
+            },
+            "maxServingSize" : 3,
+            "minServingSize" : 1,
+            "noDataResponse" : null,
+            "product" : {
+              "active" : true,
+              "brand" : "Unived",
+              "consumed" : false,
+              "consumption" : [],
+              "consumptionWithType" : [],
+              "foundation" : false,
+              "id" : "661e2dadf9119d042c8eed37",
+              "image" : "https://app-backend.srtn.live/static/images/science/supplement_images/1700211296264_Unived_RestRecovery_30scoops.png",
+              "lastSyncedAt" : null,
+              "level" : null,
+              "name" : "Rest and Recovery (Vanilla Bean)",
+              "productId" : "UNVPACCT00051",
+              "regimen" : {
+                "briefDesc" : null,
+                "category" : null,
+                "categoryIcon" : null,
+                "description" : "Best taken anytime during the day or night. ",
+                "fillPct" : null,
+                "foodCode" : "ANY",
+                "name" : "Pea Protein + Ashwagandha + Curcumin + Calcium + L-Theanine",
+                "pausePct" : 0,
+                "required" : false,
+                "servingSize" : 1,
+                "servingUnit" : "scoop(s)",
+                "split" : false,
+                "status" : "ACTIVE",
+                "timeCode" : "ANY",
+                "type" : "none",
+                "typeDesc" : "Flexible"
+              },
+              "status" : "INACTIVE"
+            },
+            "shippingInDays" : null,
+            "showInfoIcon" : false,
+            "todayConsumption" : null
+          },
+          {
+            "canPause" : false,
+            "canReorder" : false,
+            "consumptions" : [],
+            "dataNotAvailable" : false,
+            "fillIcon" : "https://app-backend.srtn.live/static/images/app/fill-1@3x.png",
+            "fillPct" : 18,
+            "infoText" : null,
+            "interactions" : [
+              {
+                "count" : 3,
+                "icon" : "https://app-backend.srtn.live/static/images/app/consume_at_another_time.png",
+                "text" : "Unfavourable Interactions",
+                "type" : "consume_at_another_time"
+              },
+              {
+                "count" : 2,
+                "icon" : "https://app-backend.srtn.live/static/images/app/include.png",
+                "text" : "Favourable Interactions",
+                "type" : "include"
+              }
+            ],
+            "latestConsumption" : null,
+            "maxServingSize" : 3,
+            "minServingSize" : 1,
+            "noDataResponse" : null,
+            "product" : {
+              "active" : true,
+              "brand" : "Unived",
+              "consumed" : false,
+              "consumption" : [],
+              "consumptionWithType" : [],
+              "foundation" : false,
+              "id" : "6629dc8afed0264a644492db",
+              "image" : "https://app-backend.srtn.live/static/images/science/supplement_images/1697427806455_Unived_Iron_60vegancaps.png",
+              "lastSyncedAt" : null,
+              "level" : null,
+              "name" : "Iron",
+              "productId" : "UNVIRN00013",
+              "regimen" : {
+                "briefDesc" : null,
+                "category" : null,
+                "categoryIcon" : null,
+                "description" : "Best taken anytime during the day or night. ",
+                "fillPct" : null,
+                "foodCode" : "ANY",
+                "name" : "Iron",
+                "pausePct" : 0,
+                "required" : false,
+                "servingSize" : 1,
+                "servingUnit" : "vegan capsules(s)",
+                "split" : false,
+                "status" : "ACTIVE",
+                "timeCode" : "ANY",
+                "type" : "none",
+                "typeDesc" : "Flexible"
+              },
+              "status" : "ACTIVE"
+            },
+            "shippingInDays" : null,
+            "showInfoIcon" : false,
+            "todayConsumption" : null
+          },
+          {
+            "canPause" : false,
+            "canReorder" : false,
+            "consumptions" : [],
+            "dataNotAvailable" : false,
+            "fillIcon" : "https://app-backend.srtn.live/static/images/app/fill-2@3x.png",
+            "fillPct" : 30,
+            "infoText" : null,
+            "interactions" : [],
+            "latestConsumption" : null,
+            "maxServingSize" : 3,
+            "minServingSize" : 1,
+            "noDataResponse" : null,
+            "product" : {
+              "active" : true,
+              "brand" : "Life Extension",
+              "consumed" : false,
+              "consumption" : [],
+              "consumptionWithType" : [],
+              "foundation" : false,
+              "id" : "661e2dadf9119d042c8eed35",
+              "image" : "https://app-backend.srtn.live/static/images/science/supplement_images/1693542060630_LifeExtension_EnhancedStressRelief_30vcaps.png",
+              "lastSyncedAt" : null,
+              "level" : null,
+              "name" : "Enhanced Stress Relief",
+              "productId" : "LFELBT00171",
+              "regimen" : {
+                "briefDesc" : null,
+                "category" : null,
+                "categoryIcon" : null,
+                "description" : "Best taken anytime during the day or night. ",
+                "fillPct" : null,
+                "foodCode" : "ANY",
+                "name" : "Lemon Balm + L-theanine",
+                "pausePct" : 0,
+                "required" : false,
+                "servingSize" : 1,
+                "servingUnit" : "veg capsule(s)",
+                "split" : false,
+                "status" : "ACTIVE",
+                "timeCode" : "ANY",
+                "type" : "none",
+                "typeDesc" : "Flexible"
+              },
+              "status" : "ACTIVE"
+            },
+            "shippingInDays" : null,
+            "showInfoIcon" : false,
+            "todayConsumption" : null
+          }
+        ],
+        "regular" : true,
+        "title" : "Additional supplements"
+      }
+    ],
+    "status" : "active",
+    "statusInfo" : null
+  }
+}
